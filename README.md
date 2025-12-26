@@ -5,7 +5,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Flower](https://img.shields.io/badge/Flower-1.5+-green.svg)](https://flower.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 
 **PSFed** is a research-grade Python package that implements **partial model sharing** in federated learning. Instead of communicating the entire model between server and clients, PSFed enables selective parameter synchronization based on configurable masking strategies.
 
