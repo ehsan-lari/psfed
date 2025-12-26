@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ehsan-lari/psfed/blob/main/images/PSFed_icon.png" alt="PSFed Logo" width="400">
+  <img src="https://github.com/ehsan-lari/psfed/blob/d002d41e5274871ae3d72f29e37cac765d61850f/images/PSFed_logo.png" alt="PSFed Logo" width="500">
 </p>
 
 # PSFed: Partial Model Sharing for Federated Learning
