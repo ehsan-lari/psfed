@@ -1,5 +1,6 @@
 # PSFed: Partial Model Sharing for Federated Learning
 
+[![PyPI version](https://img.shields.io/pypi/v/psfed.svg)](https://pypi.org/project/psfed/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Flower](https://img.shields.io/badge/Flower-1.5+-green.svg)](https://flower.ai/)
@@ -218,4 +219,5 @@ If you use PSFed in your research, please cite:
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
 
