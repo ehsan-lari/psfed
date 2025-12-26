@@ -206,11 +206,12 @@ ruff check src/psfed
 If you use PSFed in your research, please cite:
 
 ```bibtex
-@software{psfed2024,
-  title = {PSFed: Partial Model Sharing for Federated Learning},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/ehsan-lari/psfed}
+@article{lari2025resilience,
+  title={Resilience in Online Federated Learning: Mitigating Model-Poisoning Attacks via Partial Sharing},
+  author={Lari, Ehsan and Arablouei, Reza and Gogineni, Vinay Chakravarthi and Werner, Stefan},
+  journal={IEEE Transactions on Signal and Information Processing over Networks},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
