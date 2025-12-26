@@ -26,7 +26,7 @@ pip install psfed
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/psfed.git
+git clone https://github.com/ehsan-lari/psfed.git
 cd psfed
 pip install -e ".[dev]"
 ```
@@ -217,3 +217,4 @@ If you use PSFed in your research, please cite:
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
