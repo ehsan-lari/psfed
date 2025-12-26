@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ehsan-lari/psfed/blob/main/images/PSFed_icon.png" alt="PSFed Logo" width="400">
+</p>
+
 # PSFed: Partial Model Sharing for Federated Learning
 
 [![PyPI version](https://img.shields.io/pypi/v/psfed.svg)](https://pypi.org/project/psfed/)
